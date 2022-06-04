@@ -3,6 +3,7 @@ print('Linha 2')
 print('Grazyele Diniz')
 print('Quarta Linha')
 print('Quinta Linha')
+print('Sexta Linha')
 
 valor = 10
 if valor <= 10:
