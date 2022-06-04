@@ -1,6 +1,7 @@
 print('Hello world!')
 print('Linha 2')
 print('Grazyele Diniz')
+print('Nova Linha')
 
 valor = 10
 if valor <= 10:
